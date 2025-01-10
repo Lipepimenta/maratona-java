@@ -14,7 +14,7 @@ public class JogadorTest03 {
         jogador2.setTime(time);
 
         time.setJogadores(jogadores);
-        
+
         System.out.println("--- Jogador ---");
 
         jogador1.imprime();
